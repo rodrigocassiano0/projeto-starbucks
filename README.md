@@ -7,3 +7,6 @@
 <br>
   <p>-HTML</p>
   <p>-CSS</p>
+<br>
+<br>
+<img src="https://github.com/rodrigocassiano0/projeto-starbucks/blob/master/img/Capturar.PNG?raw=true">
